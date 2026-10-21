@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleShiftDuration": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

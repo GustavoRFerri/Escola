@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ShiftDurationConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
